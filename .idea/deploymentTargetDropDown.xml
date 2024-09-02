@@ -2,24 +2,21 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="MainActivity">
+      <entry key="app">
         <State>
           <runningDeviceTargetSelectedWithDropDown>
             <Target>
               <type value="RUNNING_DEVICE_TARGET" />
               <deviceKey>
                 <Key>
-                  <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="$USER_HOME$/.android/avd/Pixel_8_API_34.avd" />
+                  <type value="SERIAL_NUMBER" />
+                  <value value="3B091FDJH008FT" />
                 </Key>
               </deviceKey>
             </Target>
           </runningDeviceTargetSelectedWithDropDown>
-          <timeTargetWasSelectedWithDropDown value="2024-09-02T07:06:16.498493Z" />
+          <timeTargetWasSelectedWithDropDown value="2024-09-02T21:45:33.652269Z" />
         </State>
-      </entry>
-      <entry key="Unnamed">
-        <State />
       </entry>
     </value>
   </component>
